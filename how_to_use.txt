@@ -1,0 +1,3 @@
+./getUserAccounts [userId]
+
+For example, `./getUserAccounts 1`
